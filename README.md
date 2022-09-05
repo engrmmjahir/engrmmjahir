@@ -1,4 +1,3 @@
-![I am Web Developer]
 <img src="https://raw.githubusercontent.com/engrmmjahir/engrmmjahir/master/jahir_eid.png" alt="Banner about Arturs Smirnovs">
 ## Hi, I'm M M Jahirul Islam 👋
 <p>
