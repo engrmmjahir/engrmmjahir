@@ -1,5 +1,5 @@
 ![I am Web Developer]
-<img src="https://commons.wikimedia.org/wiki/File:M_M_Jahirul_Islam_Eid.png" alt="M M Jahirul Islam">
+[[File:M M Jahirul Islam.png|thumb|]]
 ## Hi, I'm M M Jahirul Islam 👋
 <p>
 👑 I am Web Developer <br> 
